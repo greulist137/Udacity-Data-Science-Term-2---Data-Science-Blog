@@ -1,10 +1,9 @@
 # The 2019 Tech Workforce
 
 As part of this project, we are trying to answer the following questions:
-
-    - What types of languages, databases, platforms and frameworks were used in 2018 and what will be the trend for 2019?
-    - What do people tend to look for more in a potential job? 
-    - Where do developers see themselves in 5 years?
+- What types of languages, databases, platforms and frameworks were used in 2018 and what will be the trend for 2019?
+- What do people tend to look for more in a potential job? 
+- Where do developers see themselves in 5 years?
         
 
 Data was received from the following:
