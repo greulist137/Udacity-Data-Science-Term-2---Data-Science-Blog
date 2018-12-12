@@ -1,9 +1,11 @@
-# Udacity Data Science Term 2 - Data Science Blog
+# The 2019 Tech Workforce
+
 As part of this project, we are trying to answer the following questions:
 
-    - What do people tend to look for more in a potential job? (AssessJob1-10)
-    - for the people that took bootcamps, how long did it take for them to find a job?
-    - Trend in languages, database, platform, framework used this year compared to what people want to learn next year? (LanguageWorkedWith, LanguageDesireNextYear, DatabaseWorkedWith, DatabaseDesireNextYear, PlatformWorkedWith, PlatformDesireNextYear, FrameworkWorkedWith, FrameworkDesireNextYear)    
+    - What types of languages, databases, platforms and frameworks were used in 2018 and what will be the trend for 2019?
+    - What do people tend to look for more in a potential job? 
+    - Where do developers see themselves in 5 years?
+        
 
 Data was received from the following:
 https://insights.stackoverflow.com/survey
