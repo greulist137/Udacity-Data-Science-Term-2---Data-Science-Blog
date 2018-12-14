@@ -1,8 +1,10 @@
 # The 2019 Tech Workforce
 
-As part of this project, we are trying to answer the following questions:
+With the 2018 year coming to an end, I wanted to take a look at a recent Stackoverflow survey that examined all aspects of the developer experience from career satisfaction and job search to education and sound preference when coding. This survey received more than 100,000 responses fielded from 183 countries and dependent territories.
+
+Based off of the survey results, there are 3 questions that I am looking to answer:
 - What types of languages, databases, platforms and frameworks were used in 2018 and what will be the trend for 2019?
-- What do people tend to look for more in a potential job? 
+- What do people tend to look for more in a potential job?
 - Where do developers see themselves in 5 years?
         
 
