@@ -5,6 +5,7 @@ The following was used for the environment setup:
 - Pandas
 - MatPlotLib
 - Counter
+- Seaborn
 
 # Project Motivation
 
