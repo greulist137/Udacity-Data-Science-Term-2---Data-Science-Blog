@@ -4,6 +4,7 @@ The following was used for the environment setup:
 - Numpy
 - Pandas
 - MatPlotLib
+- Counter
 
 # Project Motivation
 
@@ -25,7 +26,11 @@ https://insights.stackoverflow.com/survey
 
 Note: Due to size of the 2018 dataset, the file is not in my github repo.  At the time of writing this notebook, the file was roughly 191Mb (91MB over the Github limit of 100MB).  The file can be downloaded from the link above
 
-In terms of dealing with missing values in the dataset, I will be creating temporary tables that focus only on the columns that are being analyzed.  I will remove the rows with missing values on the temporary tables only.  
+In terms of the missing values in the dataset, I did not impute them with similar values so we can have a complete dataset.  What I did was to drop any missing data as to give an accurate depiction of the reponses to the survey.  
+### Pros
+- Gives accurate depiction of the responses to the survey
+### Cons
+- Might be throwing out seemingly useful data.  What I did to overcome this, is instead of throiwng out all rows with missing data from the beginning, was to cerate temporary tables to answer each question.  For each question I would create a temporary dataframe with the only the columns that I am looking at.  Within that dataframe, if there are any missing data, then those rows would be removed from the temporary dataframe.  This allows for only the rows in question to be removed compared to getting more rows removed if we look at all of the columns together.
 
 # Summary of Analysis
 
